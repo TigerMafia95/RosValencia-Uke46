@@ -1,4 +1,4 @@
-# Prosjektoppgave-Uke46
+# Prosjektoppgave - Uke 46
 Ros Valencia er en enkel nettbutikk som viser luksusparfymer. Produktene lagres i en database og vises på en nettside laget med Flask.
 
 Målgruppe:
