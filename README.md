@@ -15,6 +15,7 @@ Vise produkter med navn, pris og kort beskrivelse.
 FAQ-side med vanlige spørsmål og svar.
 Personvernside som forklarer hvordan brukerdata håndteres.
 Dark mode for bedre brukeropplevelse.
+Brukere kan velge mellom Norsk og Engelsk ved å trykke på tilsvarende flagg.
 Universell utforming med høy kontrast, alt-tekster på bilder og enkel navigasjon.
 Enkel navigasjon mellom produkter.
 Data hentes direkte fra MariaDB.
