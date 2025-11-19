@@ -1,8 +1,30 @@
 # Prosjektoppgave-Uke46
-En webside designet for produktive individer. En kombinasjon av notater, kalender, to do i 1! 
+Ros Valencia – LuksusParfyme Nettbutikk
 
-Dette prosjektet er en enkel webapp for å organisere dagene dine. Den kombinerer en kalender, en To-Do-liste, og en notatsseksjon slik at du kan holde oversikt over oppgaver og notater på ett sted.
+Beskrivelse:
+Ros Valencia er en enkel nettbutikk som viser luksusparfymer. Produktene lagres i en database og vises på en nettside laget med Flask.
 
-Jeg skal bruke HTML, CSS, Javascript, Localstorage, Figma, Server
+Målgruppe:
+Alle som er interessert i parfyme og ønsker å oppdage eller kjøpe luksusprodukter.
 
-Målet med prosjektet er å lage en prototype/MVP hvor brukeren kan: Se kalenderen for måneden, Legge til og fullføre To-Do-oppgaver, Skriv og lagre notater for hver dag, Alt lagres lokalt i nettleseren (localStorage)
+Teknologier:
+Flask: Enkel webapplikasjon i Python.
+MariaDB: Lagring av produkter og priser.
+Python: Henter data fra databasen og viser på nettsiden.
+Raspberry Pi: Prosjektet kjører på en liten webserver.
+
+Funksjoner:
+Vise produkter med navn, pris og kort beskrivelse.
+FAQ-side med vanlige spørsmål og svar.
+Personvernside som forklarer hvordan brukerdata håndteres.
+Dark mode for bedre brukeropplevelse.
+Universell utforming med høy kontrast, alt-tekster på bilder og enkel navigasjon.
+Enkel navigasjon mellom produkter.
+Data hentes direkte fra MariaDB.
+
+Hvordan bruke:
+Start Flask-serveren på Raspberry Pi.
+
+Åpne nettleser og gå til Ros Valencia-nettsiden.
+
+Bla gjennom produktene, les FAQ og personverninformasjonen, og bytt mellom lys/mørk modus om ønskelig.
