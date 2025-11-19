@@ -1,7 +1,4 @@
 # Prosjektoppgave-Uke46
-Ros Valencia – LuksusParfyme Nettbutikk
-
-Beskrivelse:
 Ros Valencia er en enkel nettbutikk som viser luksusparfymer. Produktene lagres i en database og vises på en nettside laget med Flask.
 
 Målgruppe:
@@ -9,11 +6,8 @@ Alle som er interessert i parfyme og ønsker å oppdage eller kjøpe luksusprodu
 
 Teknologier:
 Flask: Enkel webapplikasjon i Python. 
-
 MariaDB: Lagring av produkter og priser.
-
 Python: Henter data fra databasen og viser på nettsiden.
-
 Raspberry Pi: Prosjektet kjører på en liten webserver.
 
 Funksjoner:
@@ -26,6 +20,8 @@ Enkel navigasjon mellom produkter.
 Data hentes direkte fra MariaDB.
 
 Hvordan bruke:
-Start Flask-serveren på Raspberry Pi.
-Åpne nettleser og gå til Ros Valencia-nettsiden.
-Bla gjennom produktene, les FAQ og personverninformasjonen, og bytt mellom lys/mørk modus om ønskelig.
+1. Start Flask-serveren på Raspberry Pi.
+
+2. Åpne nettleser og gå til Ros Valencia-nettsiden.
+
+3. Bla gjennom produktene, les FAQ og personverninformasjonen, og bytt mellom lys/mørk modus om ønskelig.
