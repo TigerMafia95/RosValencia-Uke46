@@ -8,8 +8,12 @@ Målgruppe:
 Alle som er interessert i parfyme og ønsker å oppdage eller kjøpe luksusprodukter.
 
 Teknologier:
-Flask: Enkel webapplikasjon i Python. MariaDB: Lagring av produkter og priser.
+Flask: Enkel webapplikasjon i Python. 
+
+MariaDB: Lagring av produkter og priser.
+
 Python: Henter data fra databasen og viser på nettsiden.
+
 Raspberry Pi: Prosjektet kjører på en liten webserver.
 
 Funksjoner:
@@ -23,7 +27,5 @@ Data hentes direkte fra MariaDB.
 
 Hvordan bruke:
 Start Flask-serveren på Raspberry Pi.
-
 Åpne nettleser og gå til Ros Valencia-nettsiden.
-
 Bla gjennom produktene, les FAQ og personverninformasjonen, og bytt mellom lys/mørk modus om ønskelig.
